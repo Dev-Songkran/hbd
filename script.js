@@ -292,7 +292,7 @@ function reveal() {
   }
   document.querySelector('.detail').style.display = 'block';
   var ifrm = document.createElement("iframe");
-        ifrm.setAttribute("src", "https://www.youtube.com/embed/brr6SFnKDAc?controls=0&loop=1&autoplay=1");
+        ifrm.setAttribute("src", "https://www.youtube.com/embed/m9h12tuUqGo?controls=0&loop=1&autoplay=1");
         //ifrm.style.width = `${w}px`;
         //ifrm.style.height = `${h}px`;
         ifrm.style.border = 'none';
